@@ -3,7 +3,9 @@ MayaTools
 
 <img align="right" height="200" src="http://www.bloopanimation.com/wp-content/uploads/2013/10/maya-logo.png">
 
-A set of Maya tools to enhance an artist's everyday workflow.
+A set of tools to enhance the everyday tasks and workflow of a Maya artist.
+
+These tools should enhance the quality and speed of an artists workflow, under any enviorment.  They should easily enhance existing scripts, rigs, characters and pipeline.
 
 
 ## Featured Tools
@@ -29,6 +31,9 @@ A set of Maya tools to enhance an artist's everyday workflow.
 
 
 ## More Info
+### Random Scripts
+- https://gist.github.com/evitolins/28ff016bcab2aced4bbf
+
 ### References & Links
 - http://aaronkoressel.com/
 - http://morganloomis.com/

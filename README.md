@@ -1,7 +1,7 @@
-mayaTools
+MayaTools
 =========
 
-Helpful Maya tools for artists.
+A set of Maya tools to enhance an artist's everyday workflow.
 
 
 ## UTILITIES

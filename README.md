@@ -24,6 +24,21 @@ Generates a single nurbs curve object from a given polygon object's edges.  Good
 
 ## Animation
 
+**"tweener"**
+
+Add ease-in/out keyframes quickly to the current frame
+
+**"flatten/exaggerate"**
+
+Scale keyframe values based on surrounding key values.
+
+**"keyMerge"**
+
+Key channels with all frames possessing keys.
+
+
+## Viewport
+
 **"2D Pan/Zoom"**
 
 Create a sleeker 2d Zoom/Pan experience

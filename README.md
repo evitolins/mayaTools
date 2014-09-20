@@ -9,7 +9,7 @@ These tools should enhance the quality and speed of an artists workflow, under a
 
 
 ## Featured Tools
-### Utilities
+### General
 - **"Script Installer"** : Automate the installation of any custom Maya script.
 
 

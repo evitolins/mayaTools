@@ -34,7 +34,7 @@ Scale keyframe values based on surrounding key values.
 
 **"keyMerge"**
 
-Key channels with all frames possessing keys.
+Key channels with all frames possessing keys. (http://aaronkoressel.com/index.php?nav=tools "ackTimingFramework")
 
 
 ## Viewport

@@ -1,7 +1,10 @@
 MayaTools
 =========
 
+<img align="right" height="200" src="http://www.bloopanimation.com/wp-content/uploads/2013/10/maya-logo.png">
+
 A set of Maya tools to enhance an artist's everyday workflow.
+
 
 ## Featured Tools
 ### Utilities

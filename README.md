@@ -48,3 +48,4 @@ These tools should enhance the quality and speed of an artists workflow, under a
 - http://www.red9consultancy.com/
 - http://mgland.com/
 - http://www.graphite9.com/
+- https://github.com/assumptionsoup/guppy_animation_tools

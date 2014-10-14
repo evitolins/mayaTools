@@ -7,7 +7,9 @@ A set of tools to enhance the everyday tasks and workflow of a Maya artist.
 
 These tools should enhance the quality and speed of an artists workflow, under any enviorment.  They should easily enhance existing scripts, rigs, characters and pipeline.
 
-> Several of the tools below are inspired by the amazing workflow within "Voodoo": Rhythm & Hues' proprietary animation software.
+
+
+
 
 ## Featured Tools
 ### General

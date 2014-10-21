@@ -10,7 +10,7 @@ These tools should enhance the quality and speed of an artists workflow, under a
 
 ## Featured Tools
 ### General
-- **"Utilities"**: Useful library of generic Maya tasks. *(required for all tools below.)*
+- **"Utilities"** : Useful library of generic Maya tasks. *(required for all tools below.)*
 - **"Script Installer"** : Automate the installation of any custom Maya script.
 
 

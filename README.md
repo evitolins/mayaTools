@@ -8,11 +8,9 @@ A set of tools to enhance the everyday tasks and workflow of a Maya artist.
 These tools should enhance the quality and speed of an artists workflow, under any enviorment.  They should easily enhance existing scripts, rigs, characters and pipeline.
 
 
-
-
-
 ## Featured Tools
 ### General
+- **"Utilities"**: Useful library of generic Maya tasks. *(required for all tools below.)*
 - **"Script Installer"** : Automate the installation of any custom Maya script.
 
 
@@ -26,7 +24,8 @@ These tools should enhance the quality and speed of an artists workflow, under a
 - **"flatten/exaggerate"** : Scale keyframe values based on surrounding key values
 - **"keyMerge"** : Key channels with all frames possessing keys.
     - Similar Concept: http://aaronkoressel.com/index.php?nav=tools "ackTimingFramework"
-
+- **"simpleSnap"** : A quick way to record and apply world-space transforms to any object.
+- **"multiSnap"** : A quick way to record and apply world-space transforms to sets of objects.
 
 ### Viewport
 - **"2D Pan/Zoom"** : Create a sleeker 2d Zoom/Pan experience
